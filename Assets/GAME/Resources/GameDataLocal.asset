@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59d0e8e3623b8f146874773e62bb94ee, type: 3}
+  m_Name: GameDataLocal
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Boaris
+    description: This is boaris the boar
+    tier: 1
+    attack: 1
+    health: 1
+  - name: Grungus
+    description: This is grungus!!!!
+    tier: 1
+    attack: 2
+    health: 2
+  - name: Sluchette
+    description: This is sluchette the slug!!!
+    tier: 2
+    attack: 3
+    health: 3
+  teams:
+  - Name: Grungus-Grungus-Grungus
+    Turn: 1
+    BattleCharacters:
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: 9d861680-2d4b-45b8-841a-772b5c93fb93
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: f03b5c02-2603-4c63-9f58-2afeaac9b72e
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: abf4d213-2d91-4387-9dbe-fb71e927ecb5
+  - Name: Grungus-Grungus-Grungus
+    Turn: 2
+    BattleCharacters:
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: 9d861680-2d4b-45b8-841a-772b5c93fb93
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: f03b5c02-2603-4c63-9f58-2afeaac9b72e
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: abf4d213-2d91-4387-9dbe-fb71e927ecb5
+  - Name: Grungus-Grungus-Grungus
+    Turn: 3
+    BattleCharacters:
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: 9d861680-2d4b-45b8-841a-772b5c93fb93
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: f03b5c02-2603-4c63-9f58-2afeaac9b72e
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: abf4d213-2d91-4387-9dbe-fb71e927ecb5
+  - Name: Grungus-Grungus-Grungus
+    Turn: 4
+    BattleCharacters:
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: 9d861680-2d4b-45b8-841a-772b5c93fb93
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: f03b5c02-2603-4c63-9f58-2afeaac9b72e
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: abf4d213-2d91-4387-9dbe-fb71e927ecb5
+  - Name: Grungus-Grungus-Grungus
+    Turn: 5
+    BattleCharacters:
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: 9d861680-2d4b-45b8-841a-772b5c93fb93
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: f03b5c02-2603-4c63-9f58-2afeaac9b72e
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: abf4d213-2d91-4387-9dbe-fb71e927ecb5
+  - Name: Grungus-Grungus-Grungus
+    Turn: 6
+    BattleCharacters:
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: 9d861680-2d4b-45b8-841a-772b5c93fb93
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: f03b5c02-2603-4c63-9f58-2afeaac9b72e
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: abf4d213-2d91-4387-9dbe-fb71e927ecb5
+  - Name: Grungus-Grungus-Grungus
+    Turn: 6
+    BattleCharacters:
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: 9d861680-2d4b-45b8-841a-772b5c93fb93
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: f03b5c02-2603-4c63-9f58-2afeaac9b72e
+    - name: Grungus
+      description: A mushroom...
+      tier: 1
+      attack: 1
+      health: 1
+      UID: abf4d213-2d91-4387-9dbe-fb71e927ecb5
